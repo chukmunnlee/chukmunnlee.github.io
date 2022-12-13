@@ -1,0 +1,21 @@
+body {
+	margin: 5vh;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+li {
+	/* margin: 15px !important; */
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.center-it {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 3em;
+}
